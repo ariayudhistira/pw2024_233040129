@@ -14,9 +14,10 @@ function hitungKelilingLingkaran($r) {
     echo "Jari-jari = $r cm";
     echo "<br>";
     echo "Keliling Lingkaran = " . (2 * 3.14 * $r) . "cm";
-    $return $r;
+    $return $r; 
 }
 hitungKelilingLingkaran(20);
-echo "<hr>";
+echo "<hr>";
+
 
 
